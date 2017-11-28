@@ -1,0 +1,27 @@
+.border{
+	  border: 3px solid ;
+    padding: 30 30;
+    padding-bottom:60px; 
+    padding-right:500px;
+		padding-left:30px
+}
+.input{
+	max-width:10%;
+	margin-top:10px
+	
+}
+lable{
+	margin-left:15px;
+     font-family: Studio Gothic  ;
+     }
+button{
+		margin-top:10px;
+		margin-left:350px
+     }
+ span{
+		margin-right:50px;
+		margin-left:10px
+     }
+.reset{
+margin-left:350px;
+margin-top:5px}
